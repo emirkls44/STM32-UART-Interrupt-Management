@@ -1,0 +1,15 @@
+Debug/
+Release/
+bin/
+obj/
+*.elf
+*.bin
+*.map
+*.o
+*.d
+*.su
+*.launch
+
+.settings/
+.project
+.cproject
